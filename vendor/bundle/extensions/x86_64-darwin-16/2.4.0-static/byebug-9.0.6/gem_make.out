@@ -1,0 +1,19 @@
+current directory: /Users/wadawataru/environment/rails-tutorial/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+/Users/wadawataru/.rbenv/versions/2.4.3/bin/ruby -r ./siteconf20171227-2900-1vh6hl3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/wadawataru/environment/rails-tutorial/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/wadawataru/environment/rails-tutorial/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/wadawataru/environment/rails-tutorial/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20171227-2900-16a5jfw/byebug
